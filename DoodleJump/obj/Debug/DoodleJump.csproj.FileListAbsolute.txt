@@ -1,0 +1,11 @@
+D:\C#\doodleJump\DoodleJump\obj\Debug\DoodleJump.Form1.resources
+D:\C#\doodleJump\DoodleJump\obj\Debug\DoodleJump.Properties.Resources.resources
+D:\C#\doodleJump\DoodleJump\obj\Debug\DoodleJump.csproj.GenerateResource.cache
+D:\C#\doodleJump\DoodleJump\bin\Debug\DoodleJump.exe.config
+D:\C#\doodleJump\DoodleJump\bin\Debug\DoodleJump.exe
+D:\C#\doodleJump\DoodleJump\bin\Debug\DoodleJump.pdb
+D:\C#\doodleJump\DoodleJump\obj\Debug\DoodleJump.exe
+D:\C#\doodleJump\DoodleJump\obj\Debug\DoodleJump.pdb
+D:\C#\doodleJump\DoodleJump\obj\Debug\DoodleJump.csprojAssemblyReference.cache
+D:\C#\doodleJump\DoodleJump\obj\Debug\DoodleJump.menuForm.resources
+D:\C#\doodleJump\DoodleJump\obj\Debug\DoodleJump.Records.resources
